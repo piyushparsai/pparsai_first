@@ -20,3 +20,8 @@ Second change
 checkout 
 revert 
 reset
+
+$ git checkout -b <new-branch-name>
+
+$ git revert 4c2ba4f
+
