@@ -31,4 +31,13 @@ git branch bug123
 
 Git diff
 
+git merge bug123 (Complete branch)
+
+git cherypick <sha>
+
+
+git branch -d bug123
+
+idea
+
 Airtel
