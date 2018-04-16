@@ -1,1 +1,12 @@
 Welcome to Git
+
+$ git config --global user.name "Piyush Parsai"
+
+$ git config -- global user.email "piyush_parsai@persistent.com"
+
+
+piyush_parsai@NGL07350 MINGW64 /d/SVN/GitDemo
+$ git init
+Initialized empty Git repository in D:/SVN/GitDemo/.git/
+
+Change1... I did this intentionally
