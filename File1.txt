@@ -38,6 +38,4 @@ git cherypick <sha>
 
 git branch -d bug123
 
-idea
-
-Airtel
+$ git log --oneline --decorate --graph
