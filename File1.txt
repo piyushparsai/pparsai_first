@@ -7,7 +7,7 @@ $ git config -- global user.email "piyush_parsai@persistent.com"
 $ git commit -am "I added few more changes"
 
 
-piyush_parsai@NGL07350 MINGW64 /d/SVN/GitDemo
+piyush_parsai@NGL07350 MINGW64 /d/SVN/GitDemo -- P
 $ git init
 Initialized empty Git repository in D:/SVN/GitDemo/.git/
 
@@ -19,9 +19,14 @@ Second change
 -- Undo:
 checkout 
 revert 
-reset
 
 $ git checkout -b <new-branch-name>
 
 $ git revert 4c2ba4f
 
+revert --> Public
+reset --> not on public, --mixed --soft --hard
+
+git branch bug123
+
+Git diff
