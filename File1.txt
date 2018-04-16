@@ -10,3 +10,4 @@ $ git init
 Initialized empty Git repository in D:/SVN/GitDemo/.git/
 
 Change1... I did this intentionally
+Second change
