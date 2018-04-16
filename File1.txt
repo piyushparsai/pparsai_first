@@ -15,3 +15,8 @@ Change1... I did this intentionally
 Second change
 
 .gitignore
+
+-- Undo:
+checkout 
+revert 
+reset
