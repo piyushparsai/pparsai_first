@@ -38,4 +38,7 @@ git cherypick <sha>
 
 git branch -d bug123
 
+idea
+
+rebase
 $ git log --oneline --decorate --graph
